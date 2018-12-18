@@ -208,7 +208,6 @@
 <outline type="rss" title="Security Company - Trend Micro - Feeds" text="Security Company - Trend Micro - Feeds" htmlUrl="http://feeds.trendmicro.com/cloud-security?format=xml" xmlUrl="http://feeds.trendmicro.com/cloud-security?format=xml"/>
 <outline type="rss" title="Security Company - Trend Micro - Newest Malware Advisories" text="Security Company - Trend Micro - Newest Malware Advisories" htmlUrl="http://feeds.trendmicro.com/MalwareAdvisories?format=xml" xmlUrl="http://feeds.trendmicro.com/MalwareAdvisories?format=xml"/>
 <outline type="rss" title="Security Company - Trend Micro - Security Advisories" text="Security Company - Trend Micro - Security Advisories" htmlUrl="http://feeds.trendmicro.com/TrendMicroSecurityAdvisories" xmlUrl="http://feeds.trendmicro.com/TrendMicroSecurityAdvisories"/>
-
 <outline type="rss" title="Security Company - Veracode" text="Security Company - Veracode" htmlUrl="https://www.veracode.com/blog/feed" xmlUrl="https://www.veracode.com/blog/feed"/>
 </outline>
 
