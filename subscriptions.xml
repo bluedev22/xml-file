@@ -167,7 +167,6 @@
 
 <outline title="4. Post Secondary Security and IT Alerts" text="4. Post Secondary Security and IT Alerts">
 <outline type="rss" title="Post Secondary - Canada - Mount Royal - IT Security Blog" text="Post Secondary - Canada - Mount Royal - IT Security Blog" htmlUrl="http://blogs.mtroyal.ca/itsecurityawareness/feed/" xmlUrl="http://blogs.mtroyal.ca/itsecurityawareness/feed/"/>
-
 <outline type="rss" title="Post Secondary - Canada - University of British Columbia - Bulletins" text="Post Secondary - Canada - University of British Columbia - Bulletins" htmlUrl="https://bulletins.it.ubc.ca/archives/category/security/feed" xmlUrl="https://bulletins.it.ubc.ca/archives/category/security/feed"/>
 <outline type="rss" title="Post Secondary - Canada - University of British Columbia - Helpdesk Security News" text="Post Secondary - Canada - University of British Columbia - Helpdesk Security News" htmlUrl="https://helpdesk.eoas.ubc.ca/news/security.rss" xmlUrl="https://helpdesk.eoas.ubc.ca/news/security.rss"/>
 <outline type="rss" title="Post Secondary - Canada - University of Manitoba - UM Today - Information Security" text="Post Secondary - Canada - University of Manitoba - UM Today - Information Security" htmlUrl="http://news.umanitoba.ca/tag/information-security/feed/" xmlUrl="http://news.umanitoba.ca/tag/information-security/feed/"/>
@@ -298,7 +297,7 @@
 <outline type="rss" title="Fraud Alerts - IT at Brown Phishing Alerts" text="Fraud Alerts - IT at Brown Phishing Alerts" htmlUrl="https://it.brown.edu/alerts/phishing/rss.xml" xmlUrl="https://it.brown.edu/alerts/phishing/rss.xml"/>
 <outline type="rss" title="Fraud Alerts - McGill University" text="Fraud Alerts - McGill University" htmlUrl="https://www.mcgill.ca/it/taxonomy/term/308/all/feed" xmlUrl="https://www.mcgill.ca/it/taxonomy/term/308/all/feed"/>
 <outline type="rss" title="Fraud Alerts - Recent Scams and Phishing Attempts" text="Fraud Alerts - Recent Scams and Phishing Attempts" htmlUrl="http://feeds.feedburner.com/RecentScamsAndPhishingAttempts-Feed" xmlUrl="http://feeds.feedburner.com/RecentScamsAndPhishingAttempts-Feed"/>
-<outline type="rss" title="Fraud Alerts - University of Arizona" text="Fraud Alerts - niversity of Arizona" htmlUrl="https://security.arizona.edu/phishing-alerts.xml" xmlUrl="https://security.arizona.edu/phishing-alerts.xml"/>
+<outline type="rss" title="Fraud Alerts - University of Arizona" text="Fraud Alerts - University of Arizona" htmlUrl="https://security.arizona.edu/phishing-alerts.xml" xmlUrl="https://security.arizona.edu/phishing-alerts.xml"/>
 <outline type="rss" title="Fraud Alerts - University of Florida" text="Fraud Alerts - University of Florida" htmlUrl="https://alerts.it.ufl.edu/feed/all" xmlUrl="https://alerts.it.ufl.edu/feed/all"/>
 <outline type="rss" title="Fraud Alerts - University of Michigan - Safe Computing" text="Fraud Alerts - University of Michigan - Safe Computing" htmlUrl="https://www.safecomputing.umich.edu/phishing-alerts/rss" xmlUrl="https://www.safecomputing.umich.edu/phishing-alerts/rss"/>
 </outline>
