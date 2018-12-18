@@ -205,12 +205,10 @@
 <outline type="rss" title="Security Company - Symantec - Vulnerabilities" text="Security Company - Symantec - Vulnerabilities" htmlUrl="http://www.symantec.com/xml/rss/listings.jsp?lid=advisories" xmlUrl="http://www.symantec.com/xml/rss/listings.jsp?lid=advisories"/>
 <outline type="rss" title="Security Company - Talos - Security Blog" text="Security Company - Talos - Security Blog" htmlUrl="http://vrt-blog.snort.org/feeds/posts/default?alt=rss" xmlUrl="http://vrt-blog.snort.org/feeds/posts/default?alt=rss"/>
 <outline type="rss" title="Security Company - Tenable - Product Security Advisories" text="Security Company - Tenable - Product Security Advisories" htmlUrl="https://www.tenable.com/security/feed" xmlUrl="https://www.tenable.com/security/feed"/>
-<outline type="rss" title="Security Company - Trend Micro - CounterMeasures" text="Security Company - Trend Micro - CounterMeasures" htmlUrl="http://countermeasures.trendmicro.eu/feed/" xmlUrl="http://countermeasures.trendmicro.eu/feed/"/>
 <outline type="rss" title="Security Company - Trend Micro - Feeds" text="Security Company - Trend Micro - Feeds" htmlUrl="http://feeds.trendmicro.com/cloud-security?format=xml" xmlUrl="http://feeds.trendmicro.com/cloud-security?format=xml"/>
 <outline type="rss" title="Security Company - Trend Micro - Newest Malware Advisories" text="Security Company - Trend Micro - Newest Malware Advisories" htmlUrl="http://feeds.trendmicro.com/MalwareAdvisories?format=xml" xmlUrl="http://feeds.trendmicro.com/MalwareAdvisories?format=xml"/>
 <outline type="rss" title="Security Company - Trend Micro - Security Advisories" text="Security Company - Trend Micro - Security Advisories" htmlUrl="http://feeds.trendmicro.com/TrendMicroSecurityAdvisories" xmlUrl="http://feeds.trendmicro.com/TrendMicroSecurityAdvisories"/>
 
-<outline type="rss" title="Security Company - Trustwave - Security Advisories" text="Security Company - Trustwave - Security Advisories" htmlUrl="https://www.trustwave.com/rss.aspx?type=advisories" xmlUrl="https://www.trustwave.com/rss.aspx?type=advisories"/>
 <outline type="rss" title="Security Company - Veracode" text="Security Company - Veracode" htmlUrl="https://www.veracode.com/blog/feed" xmlUrl="https://www.veracode.com/blog/feed"/>
 </outline>
 
@@ -244,15 +242,12 @@
 <outline type="rss" title="News - Security Intelligence" text="News - Security Intelligence" htmlUrl="http://feeds.feedburner.com/SecurityIntelligence" xmlUrl="http://feeds.feedburner.com/SecurityIntelligence"/>
 <outline type="rss" title="News - SecurityFocus Vulnerabilities" text="News - SecurityFocus Vulnerabilities" htmlUrl="https://www.securityfocus.com/rss/vulnerabilities.xml" xmlUrl="https://www.securityfocus.com/rss/vulnerabilities.xml"/>
 <outline type="rss" title="News - SecurityWeek" text="News - SecurityWeek" htmlUrl="http://feeds.feedburner.com/Securityweek" xmlUrl="http://feeds.feedburner.com/Securityweek"/>
-<outline type="rss" title="News - Skybox Security Blog Site" text="News - Skybox Security Blog Site" htmlUrl="https://blog.skyboxsecurity.com/feed/" xmlUrl="https://blog.skyboxsecurity.com/feed/"/>
 <outline type="rss" title="News - The Register - Security" text="News - The Register - Security" htmlUrl="https://www.theregister.co.uk/security/headlines.atom" xmlUrl="https://www.theregister.co.uk/security/headlines.atom"/>
 <outline type="rss" title="News - Threatpost - Security News" text="News - Threatpost - Security News" htmlUrl="https://threatpost.com/feed/" xmlUrl="https://threatpost.com/feed/"/>
 <outline type="rss" title="News - Vuldb - Recent" text="News - Vuldb - Recent" htmlUrl="https://vuldb.com/?rss.recent" xmlUrl="https://vuldb.com/?rss.recent"/>
 <outline type="rss" title="News - Vuldb - Updates" text="News - Vuldb - Updates" htmlUrl="https://vuldb.com/?rss.updates" xmlUrl="https://vuldb.com/?rss.updates"/>
-<outline type="rss" title="News - Websec.ca - Conferences" text="News - Websec.ca - Conferences" htmlUrl="https://websec.ca/news/index.rss" xmlUrl="https://websec.ca/news/index.rss"/>
 <outline type="rss" title="News - WIRED - Security Latest" text="News - WIRED - Security Latest" htmlUrl="https://www.wired.com/feed/category/security/latest/rss" xmlUrl="https://www.wired.com/feed/category/security/latest/rss"/>
 <outline type="rss" title="News - WPScan Vulnerability Database" text="News - WPScan Vulnerability Database" htmlUrl="https://wpvulndb.com/feed.xml" xmlUrl="https://wpvulndb.com/feed.xml"/>
-<outline type="rss" title="News - Ziff Davis Security Watch" text="News - Ziff Davis Security Watch" htmlUrl="http://rssnewsapps.ziffdavis.com/securitywatch.xml" xmlUrl="http://rssnewsapps.ziffdavis.com/securitywatch.xml"/>
 </outline>
 
 <outline title="7. Google Security Feeds" text="7. Google Security Feeds">
